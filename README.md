@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **fikrinurdiega@gmail.com**
 
-- ⚡ Fun fact **I Like Playing some Games and love Graphic Design**
+- ⚡ Fun fact **I Like Playing some Games and love Graphic Design too**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
