@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fikri Nur Diega</h1>
-<h3 align="center">A passionate frontend developer and Designer from indonesia</h3>
+<h3 align="center">A passionate Amateur Frontend Developer and Graphic Designer from indonesia</h3>
 
 - 🌱 I’m currently learning **Laravel and Javascript**
 
