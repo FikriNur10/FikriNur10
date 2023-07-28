@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fikri Nur Diega</h1>
-<h3 align="center">A passionate Amateur Frontend Developer and Graphic Designer from indonesia</h3>
+<h3 align="center">A passionate Junior Fullstack Developer and Graphic Designer from indonesia</h3>
 
-- 🌱 I’m currently learning **Laravel PHP Framework and Javascript**
+- 🌱 I’m currently learning **Code Igniter, Laravel PHP Framework and Javascript**
 
 - 👨‍💻 All of my projects are available at [http://kinethixdev.me/Fikri-Personal-Web/](http://kinethixdev.me/Fikri-Personal-Web/)
 
