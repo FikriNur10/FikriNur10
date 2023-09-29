@@ -1,14 +1,15 @@
 <h1 align="center">Hi 👋, I'm Fikri Nur Diega</h1>
 <h3 align="center">A passionate Junior Fullstack Developer and Graphic Designer from indonesia</h3>
 
-- 🌱 I’m currently learning **Code Igniter, Laravel PHP Framework and Javascript**
+- 🌱 I’m currently learning **Code Igniter, Laravel PHP Framework and Javascript Framework**
 
-- 👨‍💻 All of my projects are available at [http://kinethixdev.me/Fikri-Personal-Web/](http://kinethixdev.me/Fikri-Personal-Web/)
+- 👨‍💻 All of my projects are available at [My Personel Website](https://fikrinurdiega.vercel.app/)
 
 - 📫 How to reach me **fikrinurdiega@gmail.com**
 
 - ⚡ Fun fact **I Like Playing some Games and love Graphic Design too**
 
+- 📄 Know about my experiences [Download my CV](https://drive.google.com/file/d/1N-qwOEDZdSfLIku6MmVt9ajgfX869Jzr/view?usp=sharing)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ffikrinur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ffikrinur" height="30" width="40" /></a>
