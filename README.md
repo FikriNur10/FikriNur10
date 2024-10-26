@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact **I Like Playing some Games and love Graphic Design too**
 
-- 📄 Know about my experiences [Download my CV](https://drive.google.com/file/d/1N-qwOEDZdSfLIku6MmVt9ajgfX869Jzr/view?usp=sharing)
+- 📄 Know about my experiences [Download my CV](https://drive.google.com/file/d/1vlsR48oYwzEBIAZ3i1uAqq4gJFQpfAEN/view?usp=sharing)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ffikrinur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ffikrinur" height="30" width="40" /></a>
