@@ -1,141 +1,194 @@
 # Hi 👋, I'm Fikri Nur Diega
 
-### Full Stack Software Engineer • Laravel Specialist • Product Builder
+### Technical Lead · Software Engineer · DevOps & System Architecture
 
-Building scalable web applications, business systems, and digital products from concept to deployment.
+I build and operate scalable business systems — from application architecture and backend engineering to infrastructure, deployment automation, and production operations.
+
+I combine hands-on software engineering with technical leadership and product thinking to turn business requirements into reliable, maintainable, and impactful digital solutions.
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a Full Stack Software Engineer with experience designing and developing business applications, internal tools, ERP systems, e-commerce platforms, event management systems, and content-driven websites.
+I'm a software engineer and technical lead focused on building business-critical applications, designing system architecture, and managing the infrastructure that powers digital products.
 
-I enjoy transforming business requirements into reliable software by combining backend engineering, frontend development, system architecture, and infrastructure management.
+My experience spans ERP and procurement systems, e-commerce platforms, event management applications, internal business tools, and content-driven websites.
+
+Beyond application development, I work across the engineering lifecycle: planning architecture, managing Linux servers and Docker deployments, designing CI/CD workflows, integrating services, and coordinating development efforts.
+
+**My focus is connecting software engineering, infrastructure, and business objectives to deliver systems that work reliably in production.**
 
 ### What I Do
 
-* 🚀 Build modern web applications using Laravel ecosystem
-* 🏗 Design scalable system architecture and REST APIs
-* 🐳 Deploy and manage applications with Docker, Linux, and Nginx
-* 🎨 Bridge the gap between engineering, UI/UX, and product thinking
-* 📈 Develop solutions focused on real business impact
+- 🏗️ **System Architecture** — Design maintainable applications, REST APIs, and scalable service architectures.
+- 👨‍💻 **Software Engineering** — Build backend services and modern web applications using Laravel and JavaScript ecosystems.
+- ⚙️ **DevOps & Infrastructure** — Manage Linux servers, Docker environments, reverse proxies, and application deployments.
+- 🚀 **CI/CD & Automation** — Plan and implement automated build, testing, and deployment workflows.
+- 🔐 **Infrastructure & Security** — Work with networking, access management, service isolation, and secure deployment practices.
+- 👥 **Technical Leadership** — Coordinate developers, review technical decisions, and translate requirements into actionable engineering work.
+- 📦 **Product Engineering** — Align architecture and implementation with business processes, usability, and long-term maintainability.
 
 ### Currently Exploring
 
-* Domain-Driven Design (DDD)
-* Laravel Ecosystem & Performance Optimization
-* DevOps & Infrastructure Automation
-* Scalable SaaS Architecture
-* AI-Powered Applications
+- Domain-Driven Design (DDD) and Modular Monolith Architecture
+- DevOps Automation and Infrastructure as Code
+- PostgreSQL, Redis, and Database Architecture
+- Observability with Prometheus, Grafana, and OpenTelemetry
+- Secure Infrastructure and Zero-Trust Networking
+- Scalable SaaS Architecture and Multi-Tenant Systems
+- AI-Assisted Software Engineering
 
 ---
 
-## 🌐 Portfolio & Contact
+## 🛠️ Tech Stack
 
-🌍 Portfolio: **https://fikrinurdiega.vercel.app**
+### Backend & Application Development
 
-📧 Email: **[fikrinurdiega@gmail.com](mailto:fikrinurdiega@gmail.com)**
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel,python,nodejs,bun" alt="Backend technologies" />
+</p>
 
-📄 CV: **https://drive.google.com/file/d/1vlsR48oYwzEBIAZ3i1uAqq4gJFQpfAEN/view**
+- Laravel, Livewire, Jetstream, Sanctum
+- REST API Design & Integration
+- PHP, JavaScript, TypeScript
+- Business Logic & Workflow Automation
 
-💼 LinkedIn: **https://linkedin.com/in/fikrinurdiega**
+### Frontend Development
 
----
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxt,tailwind,vite" alt="Frontend technologies" />
+</p>
 
-## 🛠 Tech Stack
+- React, Next.js, Vue 3, Nuxt
+- Tailwind CSS
+- Responsive Web Applications
+- Frontend and Backend Integration
 
-### Backend
+### Databases & Data Infrastructure
 
-* Laravel
-* Livewire
-* Jetstream
-* Sanctum
-* PHP
-* REST API
-* MySQL
-* PostgreSQL
-* Redis
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,redis" alt="Database technologies" />
+</p>
 
-### Frontend
+- MySQL & PostgreSQL
+- Redis
+- Database Design and Optimization
+- Data Migration and Integration
 
-* React.js
-* Vue 3
-* Nuxt
-* JavaScript
-* TypeScript
-* Tailwind CSS
+### DevOps, Infrastructure & Networking
 
-### DevOps & Infrastructure
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,nginx,linux,bash,gitlab,githubactions" alt="DevOps technologies" />
+</p>
 
-* Docker
-* Docker Compose
-* Nginx
-* Linux Server
-* VPS Management
-* CI/CD
-* GitHub Actions
+- Docker & Docker Compose
+- Linux Server and VPS Administration
+- Nginx and Reverse Proxy Architecture
+- CI/CD with GitLab CI/CD and GitHub Actions
+- Deployment Automation and Container Registries
+- DNS, Networking, and Secure Remote Access
+- Infrastructure Monitoring and Logging
+- WireGuard and OpenZiti
 
-### Tools & Design
+### Tools & Collaboration
 
-* Git & GitHub
-* Figma
-* Adobe Illustrator
-* Adobe Photoshop
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,figma,vscode" alt="Engineering tools" />
+</p>
+
+- Git, GitHub & GitLab
+- Figma
+- Code Review and Technical Documentation
+- Project Planning and Cross-Functional Collaboration
 
 ---
 
 ## 🚀 Featured Projects
 
-### XML Converter Automation to Excel
+### 🏢 ERP & Procurement Management System
 
-Python automation tool that converts XML files into structured Excel spreadsheets with batch processing support and error logging.
+A business management platform designed to support procurement, vendor management, contracts, inventory, and operational reporting.
 
-### ERP & Procurement Management System
+**Focus:** Business workflows, data modeling, API design, and maintainable application architecture.
 
-Business management platform for handling contracts, vendors, procurement workflows, inventory, and reporting.
+### 🛒 E-Commerce & Merchandise Platform
 
-### Koperasi Indonesia Toray Synthetics (KOKITS)
+An e-commerce platform for product catalogs, variants, order management, and online transactions, with integrations for payment and delivery services.
 
-Cooperative management platform built using Laravel, MySQL, Tailwind CSS, and jQuery.
+**Focus:** Laravel, REST APIs, payment integration, order processing, and production deployment.
 
-### Event Ticket Dashboard API
+### 🎟️ Event Management & Ticketing API
 
-Multi-event ticket management dashboard with analytics and API endpoints for Next.js landing pages.
+An event management system with ticket administration, analytics, and API endpoints supporting event landing pages and registration workflows.
 
-### Realtime Shipping Cost E-Commerce
+**Focus:** API integration, multi-event management, performance, and deployment reliability.
 
-Laravel-based e-commerce platform integrated with shipping APIs for realtime delivery cost calculation.
+### 👥 HR & Recruitment Management System
 
-### Personal Portfolio Website
+A recruitment platform for job listings, applications, candidate management, and HR administration.
 
-Modern portfolio website built with React, Vite, Tailwind CSS, and deployed on Vercel.
+**Focus:** Laravel, Livewire, REST APIs, database design, and workflow automation.
+
+### 🤖 XML-to-Excel Automation
+
+A Python automation tool that converts XML files into structured Excel spreadsheets, with batch processing and error logging.
+
+**Focus:** Data transformation, automation, and operational efficiency.
+
+### 🌐 Personal Portfolio Website
+
+A personal portfolio built with React, Vite, and Tailwind CSS to showcase software engineering projects and professional experience.
+
+**Focus:** Frontend engineering, responsive design, and deployment with Vercel.
 
 ---
 
-## 📊 GitHub Stats
+## 🏗️ Engineering Interests
+
+I'm particularly interested in the engineering practices that make software sustainable beyond the initial release.
+
+- **Architecture:** Modular monoliths, domain boundaries, API contracts, and service integration.
+- **Infrastructure:** Containerized workloads, server organization, networking, and secure access.
+- **Delivery:** Reproducible builds, CI/CD pipelines, automated deployments, and release management.
+- **Reliability:** Monitoring, centralized logging, troubleshooting, and production readiness.
+- **Leadership:** Technical planning, code quality, team coordination, and engineering standards.
+- **Product Thinking:** Translating business needs into useful features and measurable outcomes.
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fikrinur10&show_icons=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fikrinur10&show_icons=true&hide_border=true&rank_icon=github" alt="Fikri's GitHub statistics" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fikrinur10&layout=compact&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fikrinur10&layout=compact&hide_border=true" alt="Most used programming languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fikrinur10" />
+  <img src="https://streak-stats.demolab.com?user=fikrinur10&hide_border=true" alt="GitHub contribution streak" />
 </p>
+
+---
+
+## 🌐 Portfolio & Contact
+
+- 🌍 **Portfolio:** [fikrinurdiega.vercel.app](https://fikrinurdiega.vercel.app)
+- 💼 **LinkedIn:** [linkedin.com/in/fikrinurdiega](https://linkedin.com/in/fikrinurdiega)
+- 📧 **Email:** [fikrinurdiega@gmail.com](mailto:fikrinurdiega@gmail.com)
+- 📄 **CV:** [View my resume](https://drive.google.com/file/d/1vlsR48oYwzEBIAZ3i1uAqq4gJFQpfAEN/view)
 
 ---
 
 ## 🎯 Engineering Philosophy
 
-> Software is more than code.
+> Great software is not just written. It is designed, delivered, operated, and continuously improved.
 >
-> Great products come from understanding business problems, designing thoughtful systems, and delivering solutions that users genuinely need.
+> Strong engineering connects business understanding, thoughtful architecture, reliable infrastructure, and teams that work toward a shared goal.
 
 ---
 
-⭐ Thanks for visiting my profile.
+⭐ Thanks for visiting my profile!
 
-I'm always interested in discussing software engineering, Laravel, DevOps, product development, and new opportunities to build impactful digital products.
+I'm always interested in discussing system architecture, DevOps, software engineering, technical leadership, and building digital products that solve real business problems.
